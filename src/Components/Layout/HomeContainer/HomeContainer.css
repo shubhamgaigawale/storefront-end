@@ -1,0 +1,9 @@
+.home-container {
+  max-width: 1200px;
+  /* Adjust width as needed */
+  margin: 0 auto;
+  /* Center align */
+  padding: 0 1rem;
+  /* Add padding on left and right */
+  box-sizing: border-box;
+}
